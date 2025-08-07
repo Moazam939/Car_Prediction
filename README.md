@@ -1,10 +1,13 @@
 **🚗 Car Price Prediction App**
 
-A mobile application that predicts the **resale price of a car** based on user input. 
+A mobile application that predicts the **resale price of a car** based on user input.
+
 The project consists of three main components:
 
 🔬 Machine Learning Model using Polynomial Regression
+
 🌐 REST API built with Flask
+
 📱 Android App using Kotlin + Jetpack Compose + Retrofit
 
 **📊 1. Model Training (Polynomial Regression)**
