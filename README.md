@@ -22,7 +22,7 @@ Model accuracy is 97.49.
 Train Score: 0.9851715579765139
 Test Score: 0.9749149576056115
 After training, the model was saved using joblib or pickle.
-✅ Notebook and training script are located in the model/ folder (if applicable).
+✅ Notebook and training script are located in the model.
 
 🧪 2. REST API (Flask)
 A lightweight Flask server was built to serve the model.
