@@ -16,21 +16,21 @@ The machine learning model was trained using a dataset of used cars.
 
 ***Features include:**
 
-#0000000 Car Name
+i)Car Name
 
-Year
+ii)Year
 
-Present Price
+iii)Present Price
 
-KMs Driven
+iv)KMs Driven
 
-Owner Count
+v)Owner Count
 
-Fuel Type
+vi)Fuel Type
 
-Seller Type
+vii)Seller Type
 
-Transmission Type
+viii)Transmission Type
 
 
 The model uses Polynomial Regression to improve accuracy for non-linear price patterns.
